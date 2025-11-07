@@ -1,4 +1,4 @@
-# 🛡️ DVWA Security Assessment & Secure SDLC Integration  
+# 🛡️ DVWA Security Assessment
 ### *by Team Chain Slashers*
 
 ---
