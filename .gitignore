@@ -1,0 +1,27 @@
+# DVWA sensitive / runtime files
+DVWA/config/config.inc.php
+DVWA/config/config.inc.php.bak
+DVWA/php.ini
+DVWA/database/
+DVWA/*.sql
+DVWA/database/*
+DVWA/dvwa/*.db
+DVWA/hackable/uploads/
+DVWA/hackable/uploads/*.php
+DVWA/hackable/uploads/rev_shell.php
+DVWA/hackable/uploads/revshell.php
+
+# vendor, caches, editors
+DVWA/vendor/
+*.log
+*.cache
+*.env
+*.key
+*.pem
+
+# editor / OS
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
