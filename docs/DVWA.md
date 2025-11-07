@@ -25,7 +25,7 @@ The application contains a command injection vulnerability in the IP address par
 ```powershell
 http://192.168.1.4/DVWA/vulnerabilities/exec/
 ```
-![[Pasted image 20251106215402.png]]
+![[pics/Pasted image 20251106215402.png]]
 ### 3. Exploitation Analysis
 
 **Attack Vector:** Command Concatenation  
